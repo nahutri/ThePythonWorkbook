@@ -10,3 +10,5 @@ print("The tax is %.2f and the tips is %.2f, making the total %.2f" (tax,tip,tot
 
 #exercise 7, note the comma
 print("The sum of the first",n,"positive integers is",sm)
+
+#exercise
